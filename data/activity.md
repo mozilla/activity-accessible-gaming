@@ -1,77 +1,86 @@
 ---
-title: Kraken the Code
-github: riomozillaclub/activity-template
-image: square-kraken.png
+title: Accessible Gaming Controller Design
+github: soapdog/activity-accessible-gaming
+image: controller.jpg
 competencies:
-    - Search
-    - Credibility
+    - Accessibility
+    - DIY
 ---
+## [Accessibility Design](#)
 
-## [Section 1. Reading the Web](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/)
+### Accessible Gaming
 
-### Kraken the Code
+Credit: This activity was adapted from @Maker_Mark and remixed by Karen Smith and Hive Toronto with permission. 
 
-Made by [MOUSE](http://mouse.org/) and remixed for Clubs by [Mozilla](https://webmaker.org/mentor).
-
-Learners will use the Internet to solve the mystery of The Kraken, a legendary sea creature, while also **learning about search terms, keywords, and how to assess the validity and relevance of web sources.**
+In this activity learners design and create gaming controllers with a focus on accessibility.
 
 45 minutes to an hour
 
 ### Preparation
 
-**Complete the** [pre-activity questionnaire](http://goo.gl/forms/Uua6yKIy5E).
+Assemble necessary equipment for this activity including Makey Makey kits (4-5 learners can share 1 kit), a laptop for each design team, and prototyping materials (paper, tape, scissors, markers, pencil, tinfoil, etc.). 
 
-Next **do the activity on your own** to become familiar with it.
+If you are new to Makey Makeys, review the Quick Start Guide http://www.makeymakey.com/howto.php 
 
-**Print out the** [Legit-O-Meter Worksheets](https://docs.google.com/a/zythepsary.com/file/d/0B1vyNnSVEMIDbDVLX1E4ZXRmclE/edit).
-
-**Label three pieces of paper** with *“Real,” “Imaginary” and “Something In-between,”* and hang them on different sides of the room.
+![A game controller](https://farm1.staticflickr.com/540/20263891065_f87c7c03af_z_d.jpg)
 
 ---
 
-10<br>min
+5<br>min
 
-### Introduction
+### Introduction 
 
-Have a **brief conversation with your learners about web sources.**
+Have a brief conversation with your learners about accessibility?
 
-> * Is everything you read or watch online true?
-> * How do you know when information on the internet is reliable?
-> * How can you tell when it isn’t reliable?
+Look around the room or space where you are located. Are there any features that make it accessible?
 
+What are some ways that the web gets built to be accessible so that more people can use it? 
 
-**Then review the [Legit-O-Meter Worksheets](https://docs.google.com/a/zythepsary.com/file/d/0B1vyNnSVEMIDbDVLX1E4ZXRmclE/edit)** to discuss some general rules for determining the credibility of a website.
+Prompt your learners to consider different language communities, differing physical capabilities, etc..
+
 
 ---
 
 25<br>min
 
-### Kraken the Code: Hunt
+### Accessible Game Controller Design Challenge
 
-Split learners into **groups of 2 or 3** and explain that each group’s challenge is to **prove whether or not the legendary monster, The Kraken, is real or a myth.**
+Break the group into small teams (3-5 learners are recommended)
 
-Groups start by **spending 20 minutes researching.** Using the guidelines from the [Tip Sheet](legit-o-meter.html), groups should **evaluate 2 internet sources**, documenting their findings on the Legit-o-Meter (either by [writing on the handout](https://docs.google.com/a/zythepsary.com/file/d/0B1vyNnSVEMIDbDVLX1E4ZXRmclE/edit) or editing [the online template](https://laura.makes.org/thimble/Mjg1NjA2NDAw/kraken-the-code-legit-o-meter)).
+Read the following design challenge to your group
 
-![Image](http://mozilla.github.io/webmaker-curriculum/images/kraken-in-progress.jpg)
+> You have a friend named Mateo who has cerebral palsy. Mateo really enjoys challenging his friends to play online video games, but has difficulty using the computer keyboard. Mateo's  Aunt heard that some people are using Makey Makey invention kits to create unique game controllers that draw on the individual strengths that people have. Mateo's Aunt has provided you with a Makey Makey kit to make a game controller for Mateo as a surprise for his birthday. Mateo is able to make precise movements with his thumb and index finger on his right hand. His left hand is typically clenched in a fist and he can tilt his wrist and make bigger motions with this hand. Your challenge is to design a video game controller that will work for Mateo. The first game you'd like to play with Mateo is a maze game made in Scratch (https://scratch.mit.edu/projects/11710850/). 
 
-**Consider guiding their research** with the following prompts:
-
-> * Ask learners to individually talk through the process of searching for credible information.
-> * Do a sample search together and ask the group what to do next.
-> * Pair-up learners and ask them to create a screencast explaining their decisions.
-
-![Mouse](http://mozilla.github.io/webmaker-curriculum/images/kraken-finished-example.jpg)
+Provide groups with 25 minutes to create a controller
 
 ---
 
-10<br>min
+15<br>min
 
-### Kraken the Code: Defense
+### Demos
 
-At the end of the research period, **groups will stand under one of the signs:** “Real,” “Imaginary,” or “Something In-between”.
+Have groups demonstrate their designs by playing the maze game and using their controllers
 
-Ask each group what they found out about the Kraken and to **defend their opinions** using the Legit-o-Meter worksheets they filled out. Participants **can change position** if they hear convincing arguments.
+![Photo of a controller created using makeymakey](https://farm1.staticflickr.com/379/20075877250_2db3f13a9b_z_d.jpg)
 
-Conclude by asking the group to reflect on what they found.
+### Debrief Discussion
 
-Complete the **[post-activity questionnaire](http://goo.gl/forms/ezm6IXWhhM)**.
+What were the challenges you had when designing your controller? 
+
+What did you learn by designing a game controller for Mateo?
+
+If you wanted to play a different kind of game, such as one where the avatar on screen runs and jumps, would your controller still work?  Why or why not?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
